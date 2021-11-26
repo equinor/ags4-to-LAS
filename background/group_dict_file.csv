@@ -1,0 +1,149 @@
+Group Name|Contents|Notes|Parent Group
+PROJ|Project Information|Required in all files (Rule 13)|-
+ABBR|Abbreviation Definitions|Required in all files (Rule 16)|-
+DICT|User Defined Groups and Headings|Required in all files which include user defined groups and/or headings (Rule 18)|-
+FILE|Associated Files|Required in file if FILE_FSET data provided in any group (Rule 19)|-
+TRAN|Data File Transmission Information / Data Status|Required in all files (Rule 14)|-
+TYPE|Definition of Data Types|Required in all files (Rule 17)|-
+UNIT|Definition of Units|Required in all files (Rule 15)|-
+AAVT|Aggregate Abrasion Tests||SAMP
+ACVT|Aggregate Crushing Value Tests||SAMP
+AELO|Aggregate Elongation Index Tests||SAMP
+AFLK|Aggregate Flakiness Tests||SAMP
+AIVT|Aggregate Impact Value Tests||SAMP
+ALOS|Los Angeles Abrasion Tests||SAMP
+APSV|Aggregate Polished Stone Tests||SAMP
+ARTW|Aggregate Determination of the Resistance to Wear (micro-Deval)||SAMP
+ASDI|Slake Durability Index Tests||SAMP
+ASNS|Aggregate Soundness Tests||SAMP
+AWAD|Aggregate Water Absorption Tests||SAMP
+BKFL|Exploratory Hole Backfill Details||LOCA
+CBRG|California Bearing Ratio Tests – General||SAMP
+CBRT|California Bearing Ratio Tests - Data||CBRG
+CDIA|Casing Diameter by Depth||LOCA
+CHIS|Chiselling Details||LOCA
+CHOC|Chain of Custody Information||SAMP
+CMPG|Compaction Tests - General||SAMP
+CMPT|Compaction Tests - Data||CMPG
+CONG|Consolidation Tests - General||SAMP
+CONS|Consolidation Tests - Data||CONG
+CORE|Coring Information||LOCA
+CTRC|Cyclic Triaxial Tests - Consolidation||CTRG
+CTRD|Cyclic Triaxial Tests - Data||CTRP
+CTRG|Cyclic Triaxial Test - General||SAMP
+CTRP|Cyclic Triaxial Test - Derived Parameters||CTRC
+CTRS|Cyclic Triaxial Tests - Saturation||CTRG
+DCPG|Dynamic Cone Penetrometer Tests – General||LOCA
+DCPT|Dynamic Cone Penetrometer Tests – Data||DCPG
+DETL|Stratum Detail Descriptions||LOCA
+DISC|Discontinuity Data||LOCA
+DLOG|Driller Geological Description||LOCA
+DOBS|Drilling/Advancement Observations & Parameters||LOCA
+DPRG|Dynamic Probe Tests - General||LOCA
+DPRB|Dynamic Probe Tests - Data||DPRG
+DREM|Depth Related Remarks||LOCA
+ECTN|Sample Container Details||SAMP
+ELRG|Environmental Laboratory Reporting||SAMP
+ERES|Environmental Contaminant Testing|This group has been deprecated, see ELRG|SAMP
+ESCG|Effective Stress Consolidation Tests – General||SAMP
+ESCT|Effective Stress Consolidation Tests - Data||ESCG
+FGHG|Field Geohydraulic Testing - General||LOCA
+FGHI|Field Geohydraulic Testing - Instrumentation Details||FGHG
+FGHS|Field Geohydraulic Testing - Test Results (per stage)||FGHG
+FGHT|Field Geohydraulic Testing - Test Results||FGHI
+FLSH|Drilling Flush Details||LOCA
+FRAC|Fracture Spacing||LOCA
+FRST|Frost Susceptibility Tests||SAMP
+GCHM|Geotechnical Chemistry Testing|This group is reserved for soil / water chemistry testing associated with geotechnical design assessments. Environmental contamination testing should be recorded in Group ERES ELRG|SAMP
+GEOL|Field Geological Descriptions||LOCA
+GRAG|Particle Size Distribution Analysis - General||SAMP
+GRAT|Particle Size Distribution Analysis - Data||GRAG
+HDIA|Hole Diameter by Depth||LOCA
+HDPH|Depth Related Exploratory Hole Information||LOCA
+HORN|Exploratory Hole Orientation and Inclination||LOCA
+ICBR|In Situ California Bearing Ratio Tests||LOCA
+IDEN|In Situ Density Tests||LOCA
+IFID|On Site Volatile Headspace Testing Using Flame Ionisation Detector||LOCA
+IPEN|In Situ Hand Penetrometer Tests||LOCA
+IPID|On Site Volatile Headspace Testing by Photo Ionisation Detector||LOCA
+IPRG|In Situ Permeability Tests - General|This group has been deprecated, see FGHG|LOCA
+IPRT|In Situ Permeability Tests - Data|This group has been deprecated, see FGHT|IPRG
+IRDX|In Situ Redox Tests||LOCA
+IRES|In Situ Resistivity Tests||LOCA
+ISAG|Soakaway Tests - General||LOCA
+ISAT|Soakaway Tests - Data||ISAG
+ISPT|Standard Penetration Test Results||LOCA
+IVAN|In Situ Vane Tests||LOCA
+LBSG|Testing Schedule||-
+LBST|Testing Schedule Details||LBSG
+LDEN|Density Tests||SAMP
+LDYN|Dynamic Testing||SAMP
+LFCN|Laboratory Fall Cone Test||SAMP
+LLIN|Linear Shrinkage Tests||SAMP
+LLPL|Liquid and Plastic Limit Tests||SAMP
+LNMC|Water/moisture Content Tests||SAMP
+LOCA|Location Details||PROJ
+LPDN|Particle Density Tests||SAMP
+LPEN|Laboratory Hand Penetrometer Tests||SAMP
+LRES|Laboratory Resistivity Tests||SAMP
+LSLT|Shrinkage Limit Tests||SAMP
+LSTG|Initial Consumption of Lime Tests - General||SAMP
+LSTT|Initial Consumption of Lime Tests - Data||LSTG
+LSWL|Swelling Index Testing||SAMP
+LTCH|Laboratory Thermal Conductivity||SAMP
+LUCT|Laboratory Unconfined Compression Test||SAMP
+LVAN|Laboratory Vane Tests||SAMP
+MCVG|MCV Tests - General||SAMP
+MCVT|MCV Tests - Data||MCVG
+MOND|Monitoring Readings||MONG
+MONG|Monitoring Installations and Instruments||LOCA
+PIPE|Monitoring Installation Pipe Work||LOCA
+PLTG|Plate Loading Tests - General||LOCA
+PLTT|Plate Loading Tests - Data||PLTG
+PMTD|Pressuremeter Test Data||PMTG
+PMTG|Pressuremeter Test Results - General||LOCA
+PMTL|Pressuremeter Test Results - Individual Loops||PMTG
+PREM|Project Specific Time Related Remarks||-
+PTIM|Boring/Drilling Progress by Time||LOCA
+PTST|Laboratory Permeability Tests||SAMP
+PUMG|Pumping Tests - General||LOCA
+PUMT|Pumping Tests - Data||PUMG
+RCAG|Rock Abrasiveness Tests - General||SAMP
+RCAT|Rock Abrasiveness Tests - Data||RCAG
+RCCV|Chalk Crushing Value Tests||SAMP
+RDEN|Rock Porosity and Density Tests||SAMP
+RELD|Relative Density Tests||SAMP
+RESC|Resonant Column Test - Consolidation||RESG
+RESD|Resonant Column Test - Data||RESG
+RESG|Resonant Column Test – General||SAMP
+RESP|Resonant Column Test - Derived Parameters||RESD
+RESS|Resonant Column Test - Saturation||RESG
+RPLT|Point Load Testing||SAMP
+RSCH|Schmidt Rebound Hardness Tests||SAMP
+RSHR|Shore Scleroscope Hardness Tests||SAMP
+RTEN|Tensile Strength Testing||SAMP
+RUCS|Rock Uniaxial Compressive Strength and Deformability Tests||SAMP
+RWCO|Water Content of Rock Tests||SAMP
+SAMP|Sample Information||LOCA
+SCDG|Static Cone Dissipation Tests - General||SCPG
+SCDT|Static Cone Dissipation Tests - Data||SCDG
+SCPG|Static Cone Penetration Tests - General||LOCA
+SCPP|Static Cone Penetration Tests - Derived Parameters||SCPG
+SCPT|Static Cone Penetration Tests - Data||SCPG
+SHBG|Shear Box Testing - General||SAMP
+SHBT|Shear Box Testing - Data||SHBG
+STND|Standards / Specifications||-
+SUCT|Suction Tests||SAMP
+TNPC|Ten Per Cent Fines||SAMP
+TREG|Triaxial Tests - Effective Stress - General||SAMP
+TRET|Triaxial Tests - Effective Stress - Data||TREG
+TREM|Location Specific Time Related Remarks||LOCA
+TRIG|Triaxial Tests - Total Stress - General||SAMP
+TRIT|Triaxial Tests - Total Stress - Data||TRIG
+WADD|Water Added Records||LOCA
+WETH|Weathering||LOCA
+WGPG|Wireline Geophysics - General||LOCA
+WGPT|Wireline Geophysics - Readings||WGPG
+WINS|Dynamic Sampling Run Details||LOCA
+WSTG|Water Strike - General||LOCA
+WSTD|Water Strike - Details||WSTG
