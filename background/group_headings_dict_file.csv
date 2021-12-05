@@ -26,7 +26,7 @@ DICT||DICT_REM||X|Remarks|
 DICT||FILE_FSET||X|Associated file reference|FS1
 FILE|*R|FILE_FSET||X|File set reference|FS128
 FILE|*R|FILE_NAME||X|File name|BH1_Core_West.JPG
-FILE||FILE_DESC||X|Description of content|BH1 Core  photo box 8
+FILE||FILE_DESC||X|Description of content|BH1 Core photo box 8
 FILE||FILE_TYPE||PA|File type|JPG
 FILE||FILE_PROG||X|Parent program and version number|Irfanview v4.10
 FILE||FILE_DOCT||PA|Document type|PH
@@ -136,7 +136,7 @@ AIVT||SPEC_PREP||X|Details of specimen preparation including time between prepar
 AIVT||AIVT_AIV1|%|2DP|Aggregate impact value test 1|15.01
 AIVT||AIVT_AIV2|%|2DP|Aggregate impact value test 2|15.03
 AIVT||AIVT_AIV|%|1DP|Mean aggregate impact value|15
-AIVT||AIVT_FRAC||X|Size fraction from which test portion was obtained|50% between 8mm and 10mm, 25%  between  10mm  and 11.2mm, 25% between 11.2mm and 12.5mm
+AIVT||AIVT_FRAC||X|Size fraction from which test portion was obtained|50% between 8mm and 10mm, 25% between 10mm and 11.2mm, 25% between 11.2mm and 12.5mm
 AIVT||AIVT_PDEN|Mg/m3|2DP|Particle density of size fraction between 8 mm and 12.5mm|2.53
 AIVT||AIVT_REM||X|Remarks|
 AIVT||AIVT_METH||X|Test method|BS EN 1097-2:202
@@ -291,8 +291,8 @@ CBRG||CBRG_NMC|%|X|Natural water/moisture content of specimen prior to test|16.4
 CBRG||CBRG_200|%|0DP|Weight percent retained on 20mm sieve|10
 CBRG||CBRG_STAB|%|2SF|Amount of stabiliser added|23
 CBRG||CBRG_STYP||X|Type of stabiliser added|Cement
-CBRG||CBRG_REM||X|Remarks including commentary on effect of specimen disturbance on test result|Specimen  lifted  during penetration
-CBRG||CBRG_METH||X|Test method including remoulding|BS1377: Part 4: 1990  4.5kg compactive effort
+CBRG||CBRG_REM||X|Remarks including commentary on effect of specimen disturbance on test result|Specimen lifted during penetration
+CBRG||CBRG_METH||X|Test method including remoulding|BS1377: Part 4: 1990 4.5kg compactive effort
 CBRG||CBRG_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
 CBRG||CBRG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 CBRG||TEST_STAT||X|Test status|Checked
@@ -720,7 +720,7 @@ DPRG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS25
 DPRB|*|LOCA_ID||ID|Location identifier|327-16A
 DPRB|*|DPRG_TESN||X|Test reference|1
 DPRB|*|DPRB_DPTH|m|2DP|Depth to start of dynamic probe increment|2.5
-DPRB||DPRB_BLOW||0DP|Dynamic  probe  blows  for  increment DPRB_INC|7
+DPRB||DPRB_BLOW||0DP|Dynamic probe blows for increment DPRB_INC|7
 DPRB||DPRB_CBLW||0DP|Cumulative blows for test|35
 DPRB||DPRB_TORQ|Nm|0DP|Maximum torque required to rotate rods|75
 DPRB||DPRB_DEL|hh:mm|T|Delay before increment started|0
@@ -778,8 +778,8 @@ ELRG||ELRG_MDLM||U|Method detection limit|1
 ELRG||ELRG_QLM||U|Quantification limit|10
 ELRG||ELRG_DUNI||PU|Unit of detection/quantification limits|mg/l
 ELRG||ELRG_CASC||X|CAS code|7782-44-7
-ELRG||ELRG_TICP|%|0DP|Tentatively  identified  compound probability (TIC)|10
-ELRG||ELRG_TICT|s|0DP|Tentatively  identified  compound retention time (TIC)|2
+ELRG||ELRG_TICP|%|0DP|Tentatively identified compound probability (TIC)|10
+ELRG||ELRG_TICT|s|0DP|Tentatively identified compound retention time (TIC)|2
 ELRG||ELRG_RDAT|yyyy-mmddThh:mm|DT|Sample receipt date/time at laboratory|2020-12-05T12:00
 ELRG||ELRG_SGRP||X|Sample delivery or batch code|ABC123
 ELRG||ELRG_DTIM|yyyy-mmddThh:mm|DT|Analysis date and time|2020-12-06T09:09
@@ -824,9 +824,9 @@ ERES||ERES_LQLF||X|Laboratory qualifiers|<
 ERES||ERES_RDLM||U|Reporting detection limit|10
 ERES||ERES_MDLM||U|Method detection limit|1
 ERES||ERES_QLM||U|Quantification limit|10
-ERES||ERES_DUNI||PU|Unit of detection / quantification  limits|mg/l
-ERES||ERES_TICP|%|0DP|Tentatively  Identified  Compound probability (TIC)|93
-ERES||ERES_TICT|s|0DP|Tentatively  identified  compound retention time (TIC)|203
+ERES||ERES_DUNI||PU|Unit of detection / quantification limits|mg/l
+ERES||ERES_TICP|%|0DP|Tentatively Identified Compound probability (TIC)|93
+ERES||ERES_TICT|s|0DP|Tentatively identified compound retention time (TIC)|203
 ERES||ERES_RDAT|yyyy-mmdd|DT|Sample receipt date at laboratory|39036
 ERES||ERES_SGRP||X|Sample delivery or batch code|ERS151106
 ERES||SPEC_PREP||X|Details of specimen preparation including time between preparation and testing|Prepared according to client instructions
@@ -941,7 +941,7 @@ FGHG||FGHG_AWL|m|2DP|Depth to assumed standing water level used for calculations
 FGHG||FGHG_HEAD|m|2DP|Applied total head of water at centre of test zone|20.5
 FGHG||FGHG_FLOW|l/s|1DP|Average flow rate during test|2.3
 FGHG||FGHG_IPRM|m/s|1SCI|Representative permeability for test|5.1E-09
-FGHG||FGHG_ILUG||XN|Representative  Lugeon  value  for  water pressure test|
+FGHG||FGHG_ILUG||XN|Representative Lugeon value for water pressure test|
 FGHG||FGHG_FTYP||PA|Flow type for water pressure test|Laminar
 FGHG||FGHG_REM||X|Test remarks|
 FGHG||FGHG_ENV||X|Details of weather and environmental conditions during test|Sunny and warm
@@ -1043,7 +1043,7 @@ GCHM|*|GCHM_METH||X|Test method|BS 1377-3:2018
 GCHM|*R|GCHM_TTYP||PA|Test type|SOLID_21 WATER EXTRACT
 GCHM||GCHM_RESL||U|Test result|14.23
 GCHM|R|GCHM_UNIT||PU|Test result units|mg/l
-GCHM||GCHM_NAME||X|Client/laboratory  preferred  name  of determinand|Water Soluble Sulfate
+GCHM||GCHM_NAME||X|Client/laboratory preferred name of determinand|Water Soluble Sulfate
 GCHM||SPEC_DESC||X|Specimen description|Grey slightly gravelly clay
 GCHM||SPEC_PREP||X|Details of specimen preparation including time between preparation and testing|2:1 water/soil extract
 GCHM||GCHM_REM||X|Remarks on test|
@@ -1132,9 +1132,9 @@ HDPH||HDPH_ENDD|yyyy-mmddThh:mm|DT|Date and time of end of section|2004-04-01T11
 HDPH||HDPH_CREW||X|Name of rig/drill crew/operator|Bill Mallard
 HDPH||HDPH_EXC||X|Plant used|JCB 3CX
 HDPH||HDPH_SHOR||X|Shoring/support used|None
-HDPH||HDPH_STAB||X|Stability of trial pit /  trial trench or logged traverse length|Stable during excavation
+HDPH||HDPH_STAB||X|Stability of trial pit / trial trench or logged traverse length|Stable during excavation
 HDPH||HDPH_DIML|m|2DP|Trial pit / trial trench or logged traverse length|27.56
-HDPH||HDPH_DIMW|m|2DP|Trial pit / trial trench  or logged traverse width|1.35
+HDPH||HDPH_DIMW|m|2DP|Trial pit / trial trench or logged traverse width|1.35
 HDPH||HDPH_DBIT||X|Drill bit used|Stepped ABC
 HDPH||HDPH_BCON||X|Bit condition|Good
 HDPH||HDPH_BTYP||X|Barrel type|Triple tube
@@ -1152,7 +1152,7 @@ HORN|*|HORN_BASE|m|2DP|Depth to base of exploratory hole section|10.15
 HORN||HORN_ORNT|deg|0DP|Orientation of exploratory hole section or traverse (degrees from north)|210
 HORN||HORN_INCL|deg|0DP|Inclination of exploratory hole section or traverse (measured positively down from horizontal)|65
 HORN||HORN_REM||X|Remarks relating to orientation and inclination of hole section|
-HORN||FILE_FSET||X|Associated  file  reference  (e.g. contract data specification)|FS22
+HORN||FILE_FSET||X|Associated file reference (e.g. contract data specification)|FS22
 ICBR|*|LOCA_ID||ID|Location identifier|327-16A
 ICBR|*|ICBR_DPTH|m|2DP|Depth to top of CBR test|0.5
 ICBR|*|ICBR_TESN||X|Test reference|2
@@ -1167,7 +1167,7 @@ ICBR||ICBR_REM||X|Remarks|Material >20mm below plunger, test terminated early, w
 ICBR||ICBR_ENV||X|Details of weather and environmental conditions during test|Sunny and frosty
 ICBR||ICBR_METH||X|Test method|Manufacturer's instructions
 ICBR||ICBR_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-ICBR||ICBR_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+ICBR||ICBR_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 ICBR||TEST_STAT||X|Test status|Checked
 ICBR||GEOL_STAT||X|Stratum reference shown on trial pit or traverse sketch|1
 ICBR||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS25
@@ -1184,7 +1184,7 @@ IDEN||IDEN_REM||X|Remarks|Uncorrected NDG values reported
 IDEN||IDEN_ENV||X|Details of weather and environmental conditions during test|Cloudy and wet
 IDEN||IDEN_METH||X|Test method|BS 1377-9:1990
 IDEN||IDEN_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-IDEN||IDEN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+IDEN||IDEN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 IDEN||TEST_STAT||X|Test status|Checked
 IDEN||GEOL_STAT||X|Stratum reference shown on trial pit or traverse sketch|1
 IDEN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS25
@@ -1197,7 +1197,7 @@ IFID||IFID_REM||X|Remarks on test|
 IFID||IFID_ENV||X|Details of weather and environmental conditions during test|Misty
 IFID||IFID_METH||X|Details of FID used and method description|Flame ionisation detector
 IFID||IFID_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-IFID||IFID_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+IFID||IFID_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 IFID||TEST_STAT||X|Test status|Checked
 IFID||GEOL_STAT||X|Stratum reference shown on trial pit or traverse sketch|1
 IFID||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS23
@@ -1210,7 +1210,7 @@ IPEN||IPEN_REM||X|Remarks on test|
 IPEN||IPEN_ENV||X|Details of weather and environmental conditions during test|Dry and warm
 IPEN||IPEN_METH||X|Test method|BS 1377-9:1990
 IPEN||IPEN_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-IPEN||IPEN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+IPEN||IPEN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 IPEN||TEST_STAT||X|Test status|Checked
 IPEN||GEOL_STAT||X|Stratum reference shown on trial pit or traverse sketch|1
 IPEN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS11
@@ -1224,7 +1224,7 @@ IPID||IPID_REM||X|Remarks on test|
 IPID||IPID_ENV||X|Details of weather and environmental conditions during test|Cloudy with light rain
 IPID||IPID_METH||X|Details of PID used and method description|Carried out on temporary samples using photo ionisation detector fitted with 10.6 eV lamp
 IPID||IPID_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-IPID||IPID_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+IPID||IPID_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 IPID||TEST_STAT||X|Test status|Checked
 IPID||GEOL_STAT||X|Stratum reference shown on trial pit or traverse sketch|1
 IPID||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS45
@@ -1232,24 +1232,24 @@ IPRG|*|LOCA_ID||ID|Location identifier|327-16A
 IPRG|*|IPRG_TOP|m|2DP|Depth to top of test zone|12.2
 IPRG|*|IPRG_TESN||X|Test reference|2
 IPRG|*|IPRG_BASE|m|2DP|Depth to base of test zone|12.95
-IPRG|*|IPRG_STG||0DP|Stage number of multistage  test|1
+IPRG|*|IPRG_STG||0DP|Stage number of multistage test|1
 IPRG||IPRG_TYPE||PA|Type of test|Constant Head
-IPRG||IPRG_PRWL|m|2DP|Depth  to  water  in  test  zone immediately prior to test|10.6
+IPRG||IPRG_PRWL|m|2DP|Depth to water in test zone immediately prior to test|10.6
 IPRG||IPRG_SWAL|m|2DP|Depth to water at start of test|5.4
 IPRG||IPRG_TDIA|m|2DP|Diameter of test zone|0.15
 IPRG||IPRG_SDIA|m|3DP|Diameter of test installation (e.g. standpipe or casing)|0.019
 IPRG||IPRG_IPRM|m/s|1SCI|Permeability|5.1E-09
-IPRG||IPRG_FLOW|l/s|1DP|Average flow during  test stage|2.3
+IPRG||IPRG_FLOW|l/s|1DP|Average flow during test stage|2.3
 IPRG||IPRG_AWL|m|2DP|Depth to assumed standing water level|10
-IPRG||IPRG_HEAD|m|2DP|Applied total head of water during test stage at centre of  test zone|20.5
+IPRG||IPRG_HEAD|m|2DP|Applied total head of water during test stage at centre of test zone|20.5
 IPRG||IPRG_DATE|yyyymm-dd|DT|Test date|39470
 IPRG||IPRG_REM||X|Test remarks|
 IPRG||IPRG_ENV||X|Details of weather and environmental conditions during test|Sunny and warm
 IPRG||IPRG_METH||X|Test method|BS 5930
 IPRG||IPRG_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-IPRG||IPRG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+IPRG||IPRG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 IPRG||TEST_STAT||X|Test status|Checked
-IPRG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS26
+IPRG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS26
 IPRT|*|LOCA_ID||ID|Location identifier|327-16A
 IPRT|*|IPRG_TOP|m|2DP|Depth to top of test zone|12.2
 IPRT|*|IPRG_TESN||X|Test reference|2
@@ -1270,7 +1270,7 @@ IRDX||IRDX_REM||X|Details of redox test and probe type|
 IRDX||IRDX_ENV||X|Details of weather and environmental conditions during test|Cloudy with light rain
 IRDX||IRDX_METH||X|Test method|
 IRDX||IRDX_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-IRDX||IRDX_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+IRDX||IRDX_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 IRDX||TEST_STAT||X|Test status|Checked
 IRDX||GEOL_STAT||X|Stratum reference shown on trial pit or traverse sketch|1
 IRDX||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS26
@@ -1287,7 +1287,7 @@ IRES||IRES_REM||X|Details of test e.g. electrode spacing and configuration|
 IRES||IRES_ENV||X|Details of weather and environmental conditions during test|Misty and cold
 IRES||IRES_METH||X|Test method|BS 1377-9:1990
 IRES||IRES_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-IRES||IRES_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+IRES||IRES_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 IRES||TEST_STAT||X|Test status|Checked
 IRES||GEOL_STAT||X|Stratum reference shown on trial pit or traverse sketch|1
 IRES||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS26
@@ -1300,16 +1300,16 @@ ISAG||ISAG_PLEN|m|2DP|Soakaway pit length|1
 ISAG||ISAG_PDIA|m|2DP|Soakaway pit diameter|1.5
 ISAG||ISAG_DPTS|m|2DP|Soakaway pit depth at start of test|1.55
 ISAG||ISAG_DPTE|m|2DP|Soakaway pit depth at end of test|1.55
-ISAG||ISAG_CONS||X|Description of soakaway construction|Vertical  sides  trimmed  square with granular fill and observation tube
+ISAG||ISAG_CONS||X|Description of soakaway construction|Vertical sides trimmed square with granular fill and observation tube
 ISAG||ISAG_SI||2SCI|Soil infiltration rate|0.0000068
 ISAG||ISAG_PORO|%|0DP|Fill porosity|10
 ISAG||ISAG_REM||X|Remarks|Unable to calculate infiltration rate. No fall in water level during test period.
 ISAG||ISAG_ENV||X|Details of weather and environmental conditions during test|Raining
 ISAG||ISAG_METH||X|Test method|BRE Digest 365
 ISAG||ISAG_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-ISAG||ISAG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+ISAG||ISAG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 ISAG||TEST_STAT||X|Test status|Checked
-ISAG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS11
+ISAG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS11
 ISAG||ISAG_OPER||X|Name of operator carrying out test|
 ISAT|*|LOCA_ID||ID|Location identifier|327-16A
 ISAT|*|ISAG_TESN||X|Test reference|1
@@ -1327,7 +1327,7 @@ ISPT||ISPT_REP||X|SPT reported result|6,8/8,9,9,9 N=35
 ISPT||ISPT_CAS|m|2DP|Casing depth at time of test|12
 ISPT||ISPT_WAT|m|XN|Depth to water at time of test|2.50 or Dry
 ISPT||ISPT_TYPE||PA|Type of SPT test|S
-ISPT||ISPT_HAM||X|Hammer  serial  number  from manufacturer|AB1234
+ISPT||ISPT_HAM||X|Hammer serial number from manufacturer|AB1234
 ISPT||ISPT_ERAT|%|0DP|Energy ratio of the hammer|60
 ISPT||ISPT_SWP|mm|0DP|Self-weight penetration|25
 ISPT||ISPT_INC1|||Number of blows for 1st Increment (Seating)|6
@@ -1336,8 +1336,8 @@ ISPT||ISPT_INC3||0DP|Number of blows for 1st Increment (Test)|8
 ISPT||ISPT_INC4|||Number of blows for 2nd Increment (Test)|
 ISPT||ISPT_INC5||0DP|Number of blows for 3rd Increment (Test)|9
 ISPT||ISPT_INC6||0DP|Number of blows for 4th Increment (Test)|9
-ISPT||ISPT_PEN1|mm|0DP|Penetration  for 1st Increment (Seating Drive)|75
-ISPT||ISPT_PEN2|mm|0DP|Penetration  for 2nd Increment (Seating Drive)|75
+ISPT||ISPT_PEN1|mm|0DP|Penetration for 1st Increment (Seating Drive)|75
+ISPT||ISPT_PEN2|mm|0DP|Penetration for 2nd Increment (Seating Drive)|75
 ISPT||ISPT_PEN3|mm|0DP|Penetration for 1st Increment (Test)|75
 ISPT||ISPT_PEN4|mm|0DP|Penetration for 2nd Increment (Test)|75
 ISPT||ISPT_PEN5|mm|0DP|Penetration for 3rd Increment (Test)|75
@@ -1346,7 +1346,7 @@ ISPT||ISPT_ROCK||YN|SPT carried out in soft rock|N
 ISPT||ISPT_REM||X|Remarks|Borehole topped up with water prior to test
 ISPT||ISPT_ENV||X|Details of weather and environmental conditions during test|Raining
 ISPT||ISPT_METH||X|Test method|BS EN ISO 22476-3 : 2005
-ISPT||ISPT_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+ISPT||ISPT_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 ISPT||TEST_STAT||X|Test status|Checked
 ISPT||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS11
 ISPT||ISPT_N60||0DP|SPT 'N' value (corrected by energy ratio ISPT_ERAT)|35
@@ -1361,7 +1361,7 @@ IVAN||IVAN_REM||X|Details of vane test, vane size|
 IVAN||IVAN_ENV||X|Details of weather and environmental conditions during test|Dry and warm
 IVAN||IVAN_METH||X|Test method|BS 1377-6:1990
 IVAN||IVAN_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-IVAN||IVAN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+IVAN||IVAN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 IVAN||TEST_STAT||X|Test status|Checked
 IVAN||GEOL_STAT||X|Stratum reference shown on trial pit or traverse sketch|1
 IVAN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS11
@@ -1372,7 +1372,7 @@ LBSG||LBSG_TO||X|Schedule issued to|ACME Laboratories plc
 LBSG||LBSG_DUE|yyyymm-dd|DT|Date schedule to be completed and reported|39904
 LBSG||LBSG_REM||X|Comments on schedule|
 LBSG||LBSG_STAT||X|Status of schedule|Complete
-LBSG||FILE_FSET||X|Associated  file  reference  (e.g. schedule sheets)|FS1
+LBSG||FILE_FSET||X|Associated file reference (e.g. schedule sheets)|FS1
 LBST|*|LOCA_ID||ID|Location identifier|327-16A
 LBST|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 LBST|*|SAMP_REF||X|Sample reference|24
@@ -1408,8 +1408,8 @@ LDYN||LDEN_BDEN|Mg/m3|2DP|Bulk density|1.66
 LDYN||LDEN_DDEN|Mg/m3|2DP|Dry density|1.06
 LDYN||LDEN_REM||X|Remarks|
 LDYN||LDEN_METH||X|Test method|BS1377: Part 2: 1990: Clause 7.2
-LDYN||LDEN_LAB||X|Name  of testinglaboratory/organization|ACME Laboratories plc
-LDYN||LDEN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LDYN||LDEN_LAB||X|Name of testinglaboratory/organization|ACME Laboratories plc
+LDYN||LDEN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LDYN||TEST_STAT||X|Test status|Checked
 LDYN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LDYN||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
@@ -1426,11 +1426,11 @@ LDYN||SPEC_PREP||X|Details of specimen preparation including time between prepar
 LDYN||LDYN_PWAV|m/s|0DP|P-wave velocity|3000
 LDYN||LDYN_SWAV|m/s|0DP|S-wave velocity|1800
 LDYN||LDYN_EMOD|GPa|0DP|Dynamic elastic modulus|20
-LDYN||LDYN_SG|GPa|0DP|Shear  modulus  derived  from LDYN_SWAV|8
+LDYN||LDYN_SG|GPa|0DP|Shear modulus derived from LDYN_SWAV|8
 LDYN||LDYN_REM||X|Remarks|
 LDYN||LDYN_METH||X|Test method|ISRM: Suggested method
-LDYN||LDYN_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LDYN||LDYN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LDYN||LDYN_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LDYN||LDYN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LDYN||TEST_STAT||X|Test status|Checked
 LDYN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LDYN||SPEC_BASE|m|2DP|Depth to base of specimen|
@@ -1453,7 +1453,7 @@ LFCN||LFCN_PEN1|mm|2DP|Individual penetration point 1 if values differ by more t
 LFCN||LFCN_PEN2|mm|2DP|Individual penetration point 2 if values differ by more than 0.5mm from the average, for undisturbed tests.|4.25
 LFCN||LFCN_PEN3|mm|2DP|Individual penetration point 3 if values differ by more than 0.5mm from the average, for undisturbed tests.|5
 LFCN||LFCN_PEN4|mm|2DP|Individual penetration point 4 if values differ by more than 0.5mm from the average, for undisturbed tests.|4
-LFCN||LFCN_CONF||YN|Non-conforming  test  (due  to penetration range)|Y
+LFCN||LFCN_CONF||YN|Non-conforming test (due to penetration range)|Y
 LFCN||LFCN_FCPK|kPa|2SF|Estimated undrained fall cone shear strength|8.8
 LFCN||LFCN_FCRM|kPa|2SF|Estimated undrained fall cone shear strength, remoulded|5.2
 LFCN||LFCN_WC|%|X|Water content of specimen|16.2
@@ -1462,7 +1462,7 @@ LFCN||LFCN_REM||X|Test remarks|
 LFCN||LFCN_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
 LFCN||LFCN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LFCN||TEST_STAT||X|Test status|Checked
-LFCN||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS7
+LFCN||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS7
 LLIN|*|LOCA_ID||ID|Location identifier|327-16A
 LLIN|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 LLIN|*|SAMP_REF||X|Sample reference|24
@@ -1471,14 +1471,14 @@ LLIN|*|SAMP_ID||ID|Sample unique identifier|ABC121415010
 LLIN|*|SPEC_REF||X|Specimen reference|1a
 LLIN|*|SPEC_DPTH|m|2DP|Depth to top of test specimen|24.55
 LLIN||SPEC_DESC||X|Specimen description|Grey slightly gravelly clay
-LLIN||SPEC_PREP||X|Details of specimen preparation including time between preparation and testing|Specimen  prepared  by  cone quartering
+LLIN||SPEC_PREP||X|Details of specimen preparation including time between preparation and testing|Specimen prepared by cone quartering
 LLIN||LLIN_LS|%|0DP|Linear shrinkage|11
 LLIN||LLIN_425|%|0DP|Percentage passing 425µm sieve|12
 LLIN||LLIN_PREP||X|Method of preparation|Wet sieve
 LLIN||LLIN_REM||X|Remarks|
 LLIN||LLIN_METH||X|Test method|BS1377: Part 2: 1990: Clause 6.5
-LLIN||LLIN_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LLIN||LLIN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LLIN||LLIN_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LLIN||LLIN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LLIN||TEST_STAT||X|Test status|Checked
 LLIN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LLIN||SPEC_BASE|m|2DP|Depth to base of specimen|
@@ -1501,8 +1501,8 @@ LLPL||LLPL_STAB|%|2SF|Amount of stabiliser added|23
 LLPL||LLPL_STYP||X|Type of stabiliser added|Cement
 LLPL||LLPL_REM||X|Remarks|1 point liquid limit test
 LLPL||LLPL_METH||X|Test method|BS1377: Part 2: 1990: Clause 4.4 and 5
-LLPL||LLPL_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LLPL||LLPL_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LLPL||LLPL_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LLPL||LLPL_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LLPL||TEST_STAT||X|Test status|Checked
 LLPL||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LLPL||SPEC_BASE|m|2DP|Depth to base of specimen|
@@ -1513,7 +1513,7 @@ LLPL||LLPL_CONE||PA|For fall cone method, type of cone.|60g/60deg
 LLPL||LLPL_1PRE|mm|1DP|Mean of test readings, if one-point test.|19.1
 LLPL||LLPL_1PCF||3DP|Correlation factor if one-point test.|1.015
 LLPL||LLPL_SIZE|mm|U|Sieve size if other than 0.425mm|0.4
-LLPL||LLPL_PASS|%|2SF|Percentage  passing  LLPL_SIZE sieve if other than 0.425mm|98
+LLPL||LLPL_PASS|%|2SF|Percentage passing LLPL_SIZE sieve if other than 0.425mm|98
 LLPL||LLPL_WC|%|X|The water content of the specimen before removal of particles prior to determination liquid or plastic limits, if measured|21.3
 LNMC|*|LOCA_ID||ID|Location identifier|327-16A
 LNMC|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
@@ -1532,8 +1532,8 @@ LNMC||LNMC_ISNT||YN|Is test result assumed to be a natural water/moisture conten
 LNMC||LNMC_COMM||X|Reason water/moisture content is assumed to be other than natural|
 LNMC||LNMC_REM||X|Remarks|
 LNMC||LNMC_METH||X|Test method|BS1377: Part 2: 1990: Clause 3.2
-LNMC||LNMC_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LNMC||LNMC_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LNMC||LNMC_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LNMC||LNMC_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LNMC||TEST_STAT||X|Test status|Checked
 LNMC||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LNMC||SPEC_BASE|m|2DP|Depth to base of specimen|
@@ -1593,8 +1593,8 @@ LPDN||LPDN_PDEN|Mg/m3|XN|Particle density with prefix # if value assumed|#2.65
 LPDN||LPDN_TYPE||PA|Type of test|SMALL PYK
 LPDN||LPDN_REM||X|Remarks|Test on material <2mm only
 LPDN||LPDN_METH||X|Test method|BS1377: Part 2: 1990: Clause 8.3
-LPDN||LPDN_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LPDN||LPDN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LPDN||LPDN_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LPDN||LPDN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LPDN||TEST_STAT||X|Test status|Checked
 LPDN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LPDN||SPEC_BASE|m|2DP|Depth to base of specimen|
@@ -1614,8 +1614,8 @@ LPEN||LPEN_PPEN|kPa|0DP|Hand penetrometer undrained shear strength|40
 LPEN||LPEN_MC|%|X|Water/moisture content local to test, if measured|23.7
 LPEN||LPEN_REM||X|Remarks|Gravel present
 LPEN||LPEN_METH||X|Test method|Manufacturers instructions
-LPEN||LPEN_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LPEN||LPEN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LPEN||LPEN_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LPEN||LPEN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LPEN||TEST_STAT||X|Test status|Checked
 LPEN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LPEN||SPEC_BASE|m|2DP|Depth to base of specimen|
@@ -1639,15 +1639,15 @@ LRES||LRES_CCSA|mm2|0DP|Container cross-sectional area|25000
 LRES||LRES_CLEN|mm|0DP|Length of container|100
 LRES||LRES_TEMP|DegC|0DP|Temperature at which test performed|22
 LRES||LRES_ELEC||X|Type of electrodes including material|Steel discs
-LRES||LRES_PENT||X|Dimensions of probes, diameter, spacing, penetration into the soil specimen and whether inserted into ends or side|15mm  diameter  probes  100mm penetrating 75mm into test specimen
+LRES||LRES_PENT||X|Dimensions of probes, diameter, spacing, penetration into the soil specimen and whether inserted into ends or side|15mm diameter probes 100mm penetrating 75mm into test specimen
 LRES||LRES_CSHP||X|Shape of container|Cylinder
 LRES||LRES_WAT|ml|0DP|Volume of water required to saturate the soil|750
 LRES||LRES_WRES|ohm m|3SF|Water resistivity|0.69
 LRES||LRES_PART||X|Approximate percentage of large particles removed prior to test|None
 LRES||LRES_REM||X|Remarks|
 LRES||LRES_METH||X|Test method|
-LRES||LRES_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LRES||LRES_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LRES||LRES_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LRES||LRES_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LRES||TEST_STAT||X|Test status|Checked
 LRES||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LRES||SPEC_BASE|m|2DP|Depth to base of specimen|
@@ -1668,8 +1668,8 @@ LSLT||LSLT_MCI|%|X|Initial water/moisture content of test specimen|20
 LSLT||LSLT_425|%|0DP|Percentage passing 425µm sieve|12
 LSLT||LSLT_REM||X|Remarks|
 LSLT||LSLT_METH||X|Test method|ASTM D4943:2018
-LSLT||LSLT_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LSLT||LSLT_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LSLT||LSLT_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LSLT||LSLT_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LSLT||TEST_STAT||X|Test status|Checked
 LSLT||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LSLT||SPEC_BASE|m|2DP|Depth to base of specimen|
@@ -1686,14 +1686,14 @@ LSTG||SPEC_PREP||X|Details of specimen preparation including time between prepar
 LSTG||LSTG_ICL|%|2SF|Initial consumption of lime|4.4
 LSTG||LSTG_PH||1DP|pH value used for interpretation of LSTG_ICL|12.6
 LSTG||LSTG_LIME||X|Details of lime used for test|Laboratory grade Calcium Hydroxide
-LSTG||LSTG_SUIT||1DP|pH  of  saturated  lime  solution (suitability)|12.4
+LSTG||LSTG_SUIT||1DP|pH of saturated lime solution (suitability)|12.4
 LSTG||LSTG_425|%|2SF|Percentage of soil passing 425µm sieve|82
 LSTG||LSTG_REM||X|Remarks including commentary on effect of specimen disturbance on test result|
 LSTG||LSTG_METH||X|Test method|
-LSTG||LSTG_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LSTG||LSTG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LSTG||LSTG_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LSTG||LSTG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LSTG||TEST_STAT||X|Test status|Checked
-LSTG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS15
+LSTG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS15
 LSTG||SPEC_BASE|m|2DP|Depth to base of specimen|
 LSTG||LSTG_DEV||X|Deviation from the specified procedure|
 LSTT|*|LOCA_ID||ID|Location identifier|327-16A
@@ -1726,8 +1726,8 @@ LSWL||LSWL_BDEN|kg/m3|0DP|Initial bulk density|2240
 LSWL||LSWL_DDEN|kg/m3|0DP|Initial dry density|1870
 LSWL||LSWL_REM||X|Remarks|
 LSWL||LSWL_METH||X|Test method|ISRM: Suggested method
-LSWL||LSWL_LAB||X|Name  of  testing  laboratory/ organization|ACME Laboratories plc
-LSWL||LSWL_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LSWL||LSWL_LAB||X|Name of testing laboratory/ organization|ACME Laboratories plc
+LSWL||LSWL_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LSWL||TEST_STAT||X|Test status|Checked
 LSWL||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LSWL||SPEC_BASE|m|2DP|Depth to base of specimen|
@@ -1757,10 +1757,10 @@ LTCH||LTCH_PART||X|Particle grain size removed|>2mm
 LTCH||LTCH_DEV||X|Deviation from the procedure|
 LTCH||LTCH_REM||X|Remarks|
 LTCH||LTCH_METH||X|Test method|BS EN ISO 17892-7:2018
-LTCH||LTCH_LAB||X|Name  of  testing  laboratory/ organization|ACME Laboratories plc
-LTCH||LTCH_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LTCH||LTCH_LAB||X|Name of testing laboratory/ organization|ACME Laboratories plc
+LTCH||LTCH_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LTCH||TEST_STAT||X|Test status|Checked
-LTCH||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS7
+LTCH||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS7
 LUCT|*|LOCA_ID||ID|Location identifier|327-16A
 LUCT|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 LUCT|*|SAMP_REF||X|Sample reference|24
@@ -1784,10 +1784,10 @@ LUCT||LUCT_STRA|%|1DP|Strain at failure|11.2
 LUCT||LUCT_MODE||PA|Mode of failure|Brittle
 LUCT||LUCT_REM||X|Remarks|
 LUCT||LUCT_METH||X|Test method|BS EN ISO 17892-7:2018
-LUCT||LUCT_LAB||X|Name  of  testing  laboratory/ organization|ACME Laboratories plc
-LUCT||LUCT_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LUCT||LUCT_LAB||X|Name of testing laboratory/ organization|ACME Laboratories plc
+LUCT||LUCT_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LUCT||TEST_STAT||X|Test status|Checked
-LUCT||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS7
+LUCT||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS7
 LVAN|*|LOCA_ID||ID|Location identifier|327-16A
 LVAN|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 LVAN|*|SAMP_REF||X|Sample reference|24
@@ -1797,15 +1797,15 @@ LVAN|*|SPEC_REF||X|Specimen reference|1a
 LVAN|*|SPEC_DPTH|m|2DP|Depth to top of test specimen|24.55
 LVAN||SPEC_DESC||X|Specimen description|Grey slightly gravelly clay
 LVAN||SPEC_PREP||X|Details of specimen preparation including time between preparation and testing|Prepared according to client instructions
-LVAN||LVAN_VNPK|kPa|XN|Vane  undrained  shear  strength (peak)|35
-LVAN||LVAN_VNRM|kPa|XN|Vane  undrained  shear  strength (remoulded)|25
+LVAN||LVAN_VNPK|kPa|XN|Vane undrained shear strength (peak)|35
+LVAN||LVAN_VNRM|kPa|XN|Vane undrained shear strength (remoulded)|25
 LVAN||LVAN_MC|%|X|Water/moisture content local to the test|57.9
 LVAN||LVAN_SIZE|mm|1DP|Equivalent diameter of vane|12.7
 LVAN||LVAN_VLEN|mm|1DP|Length of vane|12.7
 LVAN||LVAN_REM||X|Remarks|Test performed in U100, test on CBR specimen
 LVAN||LVAN_METH||X|Test method, including type of vane|Pilcon Hand vane BS1377: Part 7: Clause 3 Laboratory vane
-LVAN||LVAN_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-LVAN||LVAN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+LVAN||LVAN_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+LVAN||LVAN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 LVAN||TEST_STAT||X|Test status|Checked
 LVAN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 LVAN||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
@@ -1826,12 +1826,12 @@ MCVG||MCVG_STAB|%|2SF|Amount of stabiliser added|23
 MCVG||MCVG_STYP||X|Type of stabiliser added|Cement
 MCVG||MCVG_REM||X|Remarks including commentary on effect of specimen disturbance on test result|
 MCVG||MCVG_METH||X|Test method|BS1377 Part 4, cl 5.4, 5.5 or 5.6
-MCVG||MCVG_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-MCVG||MCVG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+MCVG||MCVG_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+MCVG||MCVG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 MCVG||TEST_STAT||X|Test status|Checked
-MCVG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS15
+MCVG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS15
 MCVG||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-MCVG||MCVG_DEV||X|Deviation  from  the  specified procedure|
+MCVG||MCVG_DEV||X|Deviation from the specified procedure|
 MCVT|*|LOCA_ID||ID|Location identifier|327-16A
 MCVT|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 MCVT|*|SAMP_REF||X|Sample reference|24
@@ -1840,12 +1840,12 @@ MCVT|*|SAMP_ID||ID|Sample unique identifier|ABC121415010
 MCVT|*|SPEC_REF||X|Specimen reference|1a
 MCVT|*|SPEC_DPTH|m|2DP|Depth to top of test specimen|24.55
 MCVT|*|MCVT_TESN||X|Test reference|1
-MCVT||MCVT_MC|%|X|Water/moisture  content forMCVT_TESN|17.7
+MCVT||MCVT_MC|%|X|Water/moisture content forMCVT_TESN|17.7
 MCVT||MCVT_CURV||X|Method of interpretation of the test curve|Steepest straight line
 MCVT||MCVT_RELK||1DP|MCV value for MCVT_TESN|12.3
-MCVT||MCVT_BDEN|Mg/m3|2DP|After  test  bulk  density  for MCVT_TESN|2.02
+MCVT||MCVT_BDEN|Mg/m3|2DP|After test bulk density for MCVT_TESN|2.02
 MCVT||MCVT_DIFF|mm|1DP|Difference between initial (n) and final (3n) blows in rapid assessment test|4.5
-MCVT||MCVT_RAPD||X|Stronger  or  weaker  than  pre-calibrated standard|Weaker
+MCVT||MCVT_RAPD||X|Stronger or weaker than pre-calibrated standard|Weaker
 MCVT||MCVT_REM||X|Remarks|
 MCVT||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS15
 MOND|*|LOCA_ID||ID|Location identifier|327-16A
@@ -1859,9 +1859,9 @@ MOND||MOND_RDNG||XN|Reading|10.34
 MOND|R|MOND_UNIT||PU|Units of reading|m
 MOND||MOND_METH||X|Measurement method|
 MOND||MOND_LIM||U|Instrument/method reading/detection limit|
-MOND||MOND_ULIM||U|Instrument/method  upper reading/detection (when appropriate)|
-MOND||MOND_NAME||X|Client  preferred  name  of measurement|
-MOND||MOND_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+MOND||MOND_ULIM||U|Instrument/method upper reading/detection (when appropriate)|
+MOND||MOND_NAME||X|Client preferred name of measurement|
+MOND||MOND_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 MOND||MOND_CONT||X|Organization taking reading|ACME Monitoring
 MOND||MOND_REM||X|Comments on reading|
 MOND||FILE_FSET||X|Associated file reference (e.g. monitoring field sheets, instrument logging file)|FS28
@@ -1874,9 +1874,9 @@ MONG||MONG_TYPE||PA|Instrument type|TS
 MONG||MONG_DETL||X|Details of instrument|Total Station
 MONG||MONG_TRZ|m|2DP|Distance to start of response zone from LOCA_ID datum|5.5
 MONG||MONG_BRZ|m|2DP|Distance to end of response zone from LOCA_ID datum|7.5
-MONG||MONG_BRGA|deg|0DP|Bearing  of  monitoring  axis  A (compass bearing)|90
-MONG||MONG_BRGB|deg|0DP|Bearing  of  monitoring  axis  B (compass bearing)|180
-MONG||MONG_BRGC|deg|0DP|Bearing  of  monitoring  axis  C (compass bearing)|270
+MONG||MONG_BRGA|deg|0DP|Bearing of monitoring axis A (compass bearing)|90
+MONG||MONG_BRGB|deg|0DP|Bearing of monitoring axis B (compass bearing)|180
+MONG||MONG_BRGC|deg|0DP|Bearing of monitoring axis C (compass bearing)|270
 MONG||MONG_INCA|deg|0DP|Inclination of instrument axis A (measured positively down from horizontal)|
 MONG||MONG_INCB|deg|0DP|Inclination of instrument axis B (measured positively down from horizontal)|
 MONG||MONG_INCC|deg|0DP|Inclination of instrument axis C (measured positively down from horizontal)|
@@ -1885,7 +1885,7 @@ MONG||MONG_RSCB||X|Reading sign convention in direction B|Displacement to South 
 MONG||MONG_RSCC||X|Reading sign convention in direction C|Displacement up +ve
 MONG||MONG_REM||X|Remarks|Behind wall
 MONG||MONG_CONT||X|Contractor who installed monitoring instrument|ACME Instruments Ltd
-MONG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS27
+MONG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS27
 PIPE|*|LOCA_ID||ID|Location identifier|327-16A
 PIPE|*|PIPE_REF||X|Pipe reference|Pipe1
 PIPE|*|PIPE_TOP|m|2DP|Top of construction zone|0
@@ -1915,10 +1915,10 @@ PLTG||PLTG_REM||X|Remarks|
 PLTG||PLTG_ENV||X|Details of weather and environmental conditions during test|Dry and warm
 PLTG||PLTG_METH||X|Test method|DIN18134 Strain Modulus
 PLTG||PLTG_CONT||X|Name of testing organization|ACME On-site Testing Ltd
-PLTG||PLTG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+PLTG||PLTG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 PLTG||TEST_STAT||X|Test status|Checked
 PLTG||GEOL_STAT||X|Stratum reference shown on trial pit or traverse sketch|1
-PLTG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS11
+PLTG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS11
 PLTT|*|LOCA_ID||ID|Location identifier|327-16A
 PLTT|*|PLTG_DPTH|m|2DP|Test depth|1.23
 PLTT|*|PLTG_TESN||X|Test reference|1
@@ -1936,7 +1936,7 @@ PMTG|*|LOCA_ID||ID|Location identifier|327-16A
 PMTG|*|PMTG_DPTH|m|2DP|Depth of test|2.7
 PMTG|*|PMTG_TESN||X|Test reference|1
 PMTG||PMTG_DATE|yyyymm-dd|DT|Date of test|34326
-PMTG||PMTG_WAT|m|2DP|Measured or assumed ground water  level|1.53
+PMTG||PMTG_WAT|m|2DP|Measured or assumed ground water level|1.53
 PMTG||PMTG_CONT||X|Subcontractors name|An Contractor Ltd
 PMTG||PMTG_CREW||X|Operators details|ANO/TBA
 PMTG||PMTG_REF||X|Instrument reference / serial number|PMT123456
@@ -1950,11 +1950,11 @@ PMTG||PMTG_AF|deg|1DP|Angle of friction|39
 PMTG||PMTG_AD|deg|0DP|Angle of dilation|10
 PMTG||PMTG_AFCV|deg|1DP|Angle of friction at constant volume (*cv) used|35
 PMTG||PMTG_METH||X|Method(s) used to determine derived soil parameters (including those in PMTL).|
-PMTG||PMTG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+PMTG||PMTG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 PMTG||TEST_STAT||X|Test status|Checked
 PMTG||PMTG_ENV||X|Details of weather and environmental conditions during test|Rain, standing water close to test area
 PMTG||PMTG_REM||X|Remarks|6 arms used in determination of average
-PMTG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS11
+PMTG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS11
 PMTG||PMTG_NUAR||0DP|Number of arms|6
 PMTG||PMTG_ORNT||X|Bearing of arm 1 (clockwise degrees from North)|15
 PMTG||PMTG_AXIS||X|Arm combination used for analysis|Average arms
@@ -1986,7 +1986,7 @@ PMTL|*|PMTG_DPTH|m|2DP|Depth of test|2.7
 PMTL|*|PMTG_TESN||X|Test reference|1
 PMTL|*|PMTD_SEQ||0DP|Sequence number|1
 PMTL|*|PMTL_LNO||0DP|Unload/reload loop number|1
-PMTL||PMTL_GAA|MPa|0DP|Unload/reload  shear  modulus, average|139
+PMTL||PMTL_GAA|MPa|0DP|Unload/reload shear modulus, average|139
 PMTL||PMTL_SINC|%|2DP|Mean strain|3.48
 PMTL||PMTL_PINC|kPa|0DP|Mean pressure|1586
 PMTL||PMTL_STRA|%|3DP|Strain range or amplitude|0.105
@@ -2027,29 +2027,29 @@ PTST||PTST_LEN|mm|2DP|Specimen length|200.22
 PTST||PTST_MC|%|X|Initial water/moisture content of test specimen|20
 PTST||PTST_BDEN|Mg/m3|2DP|Initial bulk density of test specimen|2.24
 PTST||PTST_DDEN|Mg/m3|2DP|Initial dry density|1.87
-PTST||PTST_IDIA|mm|2DP|Diameter  of  drain  for  radial permeability in hydraulic cell|3.75
+PTST||PTST_IDIA|mm|2DP|Diameter of drain for radial permeability in hydraulic cell|3.75
 PTST||PTST_DMET||X|Method of forming central drain|Bored using mandrel and filled with saturated sand
 PTST||PTST_VOID||3DP|Initial voids ratio|0.375
 PTST||PTST_K|m/s|1SCI|Coefficient of permeability|0.0000041
 PTST||PTST_TSTR|kPa|0DP|Mean effective stress at which permeability measured (when measured in triaxial or hydraulic cell).|112
 PTST||PTST_HYGR||0DP|Hydraulic gradient at which permeability measured (for constant head test).|1
 PTST||PTST_ISAT|%|2SF|Initial degree of saturation|72
-PTST||PTST_SAT||X|Details  of  saturation,  where appropriate|Back pressure, Bf = 0.96
-PTST||PTST_CONS||X|Details  of  consolidation,  where appropriate|Drainage to top with pwp at base
+PTST||PTST_SAT||X|Details of saturation, where appropriate|Back pressure, Bf = 0.96
+PTST||PTST_CONS||X|Details of consolidation, where appropriate|Drainage to top with pwp at base
 PTST||PTST_PDEN|Mg/m3|XN|Particle density with prefix # if value assumed|#2.65
 PTST||PTST_TYPE||PA|Type of permeability measurement|Falling head
 PTST||PTST_CELL||PA|Type of permeameter|TRIAXIAL CELL
 PTST||PTST_REM||X|Remarks on test|
 PTST||PTST_METH||X|Test method|BS1377 Part 5
-PTST||PTST_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-PTST||PTST_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+PTST||PTST_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+PTST||PTST_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 PTST||TEST_STAT||X|Test status|Checked
 PTST||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS28
 PTST||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
 PTST||PTST_DEV||X|Deviations from the test method|
 PTST||PTST_WCIS||X|Initial water content source|Specimen trimmings
 PTST||PTST_WCF|%|X|Final water content of test specimen|20.2
-PTST||PTST_FSAT|%|2SF|Final  degree  of  saturation,  if determined|72
+PTST||PTST_FSAT|%|2SF|Final degree of saturation, if determined|72
 PTST||PTST_TEMP|DegC|1DP|Average laboratory temperature at which the test was performed|20.2
 PTST||PTST_SOUR||X|Source of permeameter water|Tap water
 PTST||PTST_BACK|kPa|0DP|Back pressure|50
@@ -2059,11 +2059,11 @@ PUMG|*|LOCA_ID||ID|Location identifier|327-16A
 PUMG|*|PUMG_TEST||X|Test reference|1991-03-16#1
 PUMG||PUMG_CONT||X|Contractor|PUMP Ltd
 PUMG||PUMG_METH||X|Method of testing|BS 6316
-PUMG||PUMG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+PUMG||PUMG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 PUMG||TEST_STAT||X|Test status|Checked
 PUMG||PUMG_ENV||X|Details of weather and environmental conditions during test|Heavy rain
 PUMG||PUMG_REM||X|Remarks on test|Double packer
-PUMG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS11
+PUMG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS11
 PUMT|*|LOCA_ID||ID|Location identifier|327-16A
 PUMT|*|PUMG_TEST||X|Test reference|1991-03-16#1
 PUMT|*|PUMT_DTIM|yyyy-mmddThh:mm|DT|Date and time of reading|1991-03-16T13:25
@@ -2081,7 +2081,7 @@ RCAG|*|SPEC_DPTH|m|2DP|Depth to top of test specimen|24.55
 RCAG||SPEC_DESC||X|Specimen description|Weak brown fine grained SANDSTONE
 RCAG||SPEC_PREP||X|Details of specimen preparation including time between preparation and testing|Prepared according to client instructions
 RCAG||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-RCAG||RCAG_DEV||X|Deviation  from  the  specified procedure|
+RCAG||RCAG_DEV||X|Deviation from the specified procedure|
 RCAG||RCAG_DATE|yyyymm-dd|DT|Date of test|43836
 RCAG||RCAG_COND||X|Condition of specimen as tested (saturated, as received, air dried, oven dried, etc)|Air dried
 RCAG||RCAG_GSIZ||2DP|Maximum grain size|0.06
@@ -2092,9 +2092,9 @@ RCAG||RCAG_CAIM||1DP|CAI mean value|2.1
 RCAG||RCAG_CAIS||2DP|CAI standard deviation|0.11
 RCAG||RCAG_ABCL||X|Abrasiveness classification|Low
 RCAG||RCAG_REM||X|Remarks|45° relative to axis, Tests carried out at prevailing surface unless annotated otherwise.
-RCAG||RCAG_METH||X|Test method|ISRM: Suggested Method for  Determining the Abrasivity of Rock by the CERCHAR Abrasivity Test
-RCAG||RCAG_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-RCAG||RCAG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RCAG||RCAG_METH||X|Test method|ISRM: Suggested Method for Determining the Abrasivity of Rock by the CERCHAR Abrasivity Test
+RCAG||RCAG_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+RCAG||RCAG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RCAG||TEST_STAT||X|Test status|Checked
 RCAG||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 RCAT|*|LOCA_ID||ID|Location identifier|327-16A
@@ -2108,7 +2108,7 @@ RCAT|*|RCAT_TESN||X|Measurement number|1
 RCAT||RCAT_CUT||X|Surface condition (rough, saw-cut)|Fresh saw-cut
 RCAT||RCAT_SDIR||X|Direction of scratching with respect to planes of weakness or anisotropy|Normal
 RCAT||RCAT_STYH||0DP|Rockwell hardness HRC of stylus|42
-RCAT||RCAT_STYC||X|Stylus  condition  (new  or  resharpened)|Re-sharpened
+RCAT||RCAT_STYC||X|Stylus condition (new or resharpened)|Re-sharpened
 RCAT||RCAT_CAI||1DP|As measured CAI value|2.4
 RCAT||RCAT_CAIS||1DP|Equivalent CAI value at standard stylus hardness HRC 55|3.1
 RCAT||RCAT_REM||X|Remarks|
@@ -2128,12 +2128,12 @@ RCCV||RCCV_CCV||1DP|Chalk crushing value|5.6
 RCCV||RCCV_100|%|0DP|Percentage larger than 10mm in original sample|85
 RCCV||RCCV_REM||X|Remarks|
 RCCV||RCCV_METH||X|Test method|BS 1377 Part 4 Cl 6
-RCCV||RCCV_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-RCCV||RCCV_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RCCV||RCCV_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+RCCV||RCCV_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RCCV||TEST_STAT||X|Test status|Checked
 RCCV||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 RCCV||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-RCCV||RCCV_DEV||X|Deviation  from  the  specified procedure|
+RCCV||RCCV_DEV||X|Deviation from the specified procedure|
 RDEN|*|LOCA_ID||ID|Location identifier|327-16A
 RDEN|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 RDEN|*|SAMP_REF||X|Sample reference|24
@@ -2152,13 +2152,13 @@ RDEN||RDEN_PDEN|kg/m3|0DP|Apparent particle density|2750
 RDEN||RDEN_TEMP|DegC|0DP|Temperature sample dried at|60
 RDEN||RDEN_REM||X|Remarks|Average of three reported
 RDEN||RDEN_METH||X|Test method|ISRM: Suggested method for determining porosity/density using saturation and calliper technique.
-RDEN||RDEN_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-RDEN||RDEN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RDEN||RDEN_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+RDEN||RDEN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RDEN||TEST_STAT||X|Test status|Checked
 RDEN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 RDEN||RDEN_IDEN|Mg/m3|2DP|Intact dry density|1.78
 RDEN||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-RDEN||RDEN_DEV||X|Deviation  from  the  specified procedure|
+RDEN||RDEN_DEV||X|Deviation from the specified procedure|
 RELD|*|LOCA_ID||ID|Location identifier|327-16A
 RELD|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 RELD|*|SAMP_REF||X|Sample reference|24
@@ -2175,12 +2175,12 @@ RELD||RELD_020|%|0DP|Weight percent of sample retained on 2mm sieve|5
 RELD||RELD_DMIN|Mg/m3|2DP|Minimum dry density|1.65
 RELD||RELD_REM||X|Remarks on test|Material >37.5 replaced with smaller material
 RELD||RELD_METH||X|Test method|BS1377 part 4: 4.2 and 4.4
-RELD||RELD_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-RELD||RELD_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RELD||RELD_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+RELD||RELD_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RELD||TEST_STAT||X|Test status|Checked
 RELD||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS24
 RELD||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-RELD||RELD_DEV||X|Deviation  from  the  specified procedure|
+RELD||RELD_DEV||X|Deviation from the specified procedure|
 RESC|*|LOCA_ID||ID|Location identifier|BH01
 RESC|*|SAMP_TOP|m|2DP|Depth to top of sample|10.12
 RESC|*|SAMP_REF||X|Sample reference|10WaxA
@@ -2194,13 +2194,13 @@ RESC||RESC_HIGH|mm|2DP|Specimen height|25.15
 RESC||RESC_CTYP||PA|Type of consolidation|ISOTROPIC
 RESC||RESC_ELAP|hh:mm:ss|T|Duration of stage|0.385763889
 RESC||RESC_CHGT|mm|2DP|Specimen height at end of test/stage|21.32
-RESC||RESC_CDIA|mm|2DP|Specimen  diameter  at  end  of test/stage|21.98
+RESC||RESC_CDIA|mm|2DP|Specimen diameter at end of test/stage|21.98
 RESC||RESC_CMC|%|X|Water content at end of test/stage|21
 RESC||RESC_CDDN|Mg/m3|2DP|Dry density at end of test/stage|1.61
 RESC||RESC_CRD|%|1DP|Relative density at end of test/stage|90.1
 RESC||RESC_INCE||3DP|Voids ratio at end of test/stage|0.765
-RESC||RESC_EASC|kPa|1DP|Effective  axial  stress  during consolidation at end of test/stage|200.5
-RESC||RESC_ERSC|kPa|1DP|Effective  radial  stress  during consolidation at end of test/stage|100.4
+RESC||RESC_EASC|kPa|1DP|Effective axial stress during consolidation at end of test/stage|200.5
+RESC||RESC_ERSC|kPa|1DP|Effective radial stress during consolidation at end of test/stage|100.4
 RESC||RESC_DEVS|kPa|1DP|Deviatoric stress at end of test/stage|99.1
 RESC||RESC_SHRS|kPa|1DP|Shear stress at end of test/stage|25.3
 RESC||RESC_MNES|kPa|1DP|Mean effective stress at end of test/stage|16.5
@@ -2272,12 +2272,12 @@ RESG||RESG_IRDI|%|1DP|Initial relative density index|80.1
 RESG||RESG_IVR||3DP|Initial void ratio|0.995
 RESG||RESG_ISAT|%|0DP|Initial degree of saturation|97
 RESG||RESG_PDEN|Mg/m3|XN|Particle density with prefix # if value assumed|#2.65
-RESG||RESG_DAMP||X|Damping measurement method|Steady  state/ free vibration
+RESG||RESG_DAMP||X|Damping measurement method|Steady state/ free vibration
 RESG||RESG_DEV||X|Deviation from the specified procedure|
 RESG||RESG_REM||X|Remarks|
 RESG||RESG_METH||X|Test method|ASTM D4015-07
 RESG||RESG_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
-RESG||RESG_CRED||X|Accrediting  body  and  reference number ({when appropriate)|UKAS 0000
+RESG||RESG_CRED||X|Accrediting body and reference number ({when appropriate)|UKAS 0000
 RESG||TEST_STAT||X|Test Status|Draft
 RESG||FILE_FSET||X|Associated file reference|FS10
 RESP|*|LOCA_ID||ID|Location identifier|BH01
@@ -2291,17 +2291,17 @@ RESP|*|RESD_TESN||X|Test / Stage Number|2
 RESP|*|RESD_MNUM||X|Measurement Number|3
 RESP||RESP_CTYP||X|Type of Consolidation|Isotropic
 RESP||RESP_CSTG||0DP|Consolidation Stage|3
-RESP||RESP_CELL|kPa|1DP|Isotropic/Anisotropic  Consolidation Cell Pressure|600.5
-RESP||RESP_BACK|kPa|1DP|Isotropic/Anisotropic  Consolidation Back Pressure|530.5
-RESP||RESP_ERSC|kPa|1DP|Effective  Radial  Stress  During Consolidation|40.4
-RESP||RESP_EASC|kPa|1DP|Effective  Axial  Stress  During Consolidation|32.3
-RESP||RESP_DEV|kPa|1DP|Deviator  Stress  at  End  of Isotropic/Anisotropic Consolidation|-8.5
+RESP||RESP_CELL|kPa|1DP|Isotropic/Anisotropic Consolidation Cell Pressure|600.5
+RESP||RESP_BACK|kPa|1DP|Isotropic/Anisotropic Consolidation Back Pressure|530.5
+RESP||RESP_ERSC|kPa|1DP|Effective Radial Stress During Consolidation|40.4
+RESP||RESP_EASC|kPa|1DP|Effective Axial Stress During Consolidation|32.3
+RESP||RESP_DEV|kPa|1DP|Deviator Stress at End of Isotropic/Anisotropic Consolidation|-8.5
 RESP||RESP_VOLS|%|3DP|Change to Volumetric Strain During Isotropic/Anisotropic Consolidation|3.081
 RESP||RESP_STRN|%|3DP|Axial Strain After Isotropic/Anisotropic Consolidation|9.212
 RESP||RESP_SMOD|MPa|2DP|Shear Modulus G0|29.31
 RESP||RESP_SSTR|kPa|1DP|Mean Effective Stress|200.1
 RESP||RESP_DAMP|%|4DP|Damping Ratio|1.3581
-RESP||RESP_SMRA||2DP|Normalised  Shear  Modulus  by Maximum Shear Modulus|0.75
+RESP||RESP_SMRA||2DP|Normalised Shear Modulus by Maximum Shear Modulus|0.75
 RESP||RESP_SR||2DP|Slippage Ratio|0.21
 RESP||RESP_REM||X|Remarks|
 RESP||FILE_FSET||X|Associated file reference|FS10
@@ -2341,13 +2341,13 @@ RPLT||RPLT_PLTF||PA|Point load test type|A+L
 RPLT||RPLT_MC|%|1DP|Water content of point load test specimen|2.1
 RPLT||RPLT_REM||X|Remarks|Saturated specimen
 RPLT||RPLT_METH||X|Test method|ISRM: 2007 : Suggested method for determining point load strength. Int J Rock Mech Min Sci & Geomech Abstr, Vol 22, No 2, pp 51-60
-RPLT||RPLT_LAB||X|Name  of  testing|ACME Laboratories plc
+RPLT||RPLT_LAB||X|Name of testing|ACME Laboratories plc
 RPLT|||||laboratory/organization|
-RPLT||RPLT_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RPLT||RPLT_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RPLT||TEST_STAT||X|Test status|Checked
 RPLT||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 RPLT||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-RPLT||RPLT_DEV||X|Deviation  from  the  specified procedure|
+RPLT||RPLT_DEV||X|Deviation from the specified procedure|
 RSCH|*|LOCA_ID||ID|Location identifier|327-16A
 RSCH|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 RSCH|*|SAMP_REF||X|Sample reference|24
@@ -2361,9 +2361,9 @@ RSCH||RSCH_SCHV||0DP|Schmidt hardness value|12
 RSCH||RSCH_AXIS||X|Orientation of the hammer axis in the test from horizontal (positive numbers downwards and negative numbers upward)|
 RSCH||RSCH_CLAM||X|Method of clamping specimen|V-block
 RSCH||RSCH_REM||X|Remarks|
-RSCH||RSCH_METH||X|Test method|ISRM: Suggested method for determination  of  Schmidt rebound hardness
+RSCH||RSCH_METH||X|Test method|ISRM: Suggested method for determination of Schmidt rebound hardness
 RSCH||RSCH_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
-RSCH||RSCH_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RSCH||RSCH_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RSCH||TEST_STAT||X|Test status|Checked
 RSCH||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 RSCH||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
@@ -2377,7 +2377,7 @@ RSCH||RSCH_WCTX||X|Description of water content if not measured|DRY
 RSCH||RSCH_HTYP||X|Hammer type|L-TYPE
 RSCH||RSCH_ORN|||Orientation of hammer axis with reference to intact rock anisotropy features (e.g. lamination, foliation, schistosity, lineation)|Perpendicular to lamination
 RSCH||RSCH_MEAN||0DP|Schmidt hardness mean (normalized to horizontal impact direction)|12
-RSCH||RSCH_MED||0DP|Schmidt  hardness  median (normalized to horizontal impact direction)|12
+RSCH||RSCH_MED||0DP|Schmidt hardness median (normalized to horizontal impact direction)|12
 RSCH||RSCH_MODE||0DP|Schmidt hardness mode (normalized to horizontal impact direction)|12
 RSCH||RSCH_RANG||0DP|Schmidt hardness range (normalized to horizontal impact direction)|3
 RSCH||RSCH_NUM||X|Number of determinations if less than 20 and reason|12 determinations – 10 consecutive readings differing by less than 4.
@@ -2395,12 +2395,12 @@ RSHR||RSHR_AXIS||X|Orientation of the test surface relative to bedding|
 RSHR||RSHR_NUM||0DP|Number of tests conducted|20
 RSHR||RSHR_REM||X|Remarks|
 RSHR||RSHR_METH||X|Test method|ISRM: Suggested method for determination of Shore Scleroscope hardness
-RSHR||RSHR_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-RSHR||RSHR_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RSHR||RSHR_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+RSHR||RSHR_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RSHR||TEST_STAT||X|Test status|Checked
 RSHR||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 RSHR||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-RSHR||RSHR_DEV||X|Deviation  from  the  specified procedure|
+RSHR||RSHR_DEV||X|Deviation from the specified procedure|
 RTEN|*|LOCA_ID||ID|Location identifier|327-16A
 RTEN|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 RTEN|*|SAMP_REF||X|Sample reference|24
@@ -2421,12 +2421,12 @@ RTEN||RTEN_MODE||PA|Mode of failure|Shear
 RTEN||RTEN_MACH||X|Testing machine|Denison 7225
 RTEN||RTEN_REM||X|Remarks|Thin card used between platens and test specimen
 RTEN||RTEN_METH||X|Test method|ISRM: Suggested method for determination of indirect tensile strength by the Brazil test
-RTEN||RTEN_LAB||X|Name  of testinglaboratory/organization|ACME Laboratories plc
-RTEN||RTEN_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RTEN||RTEN_LAB||X|Name of testinglaboratory/organization|ACME Laboratories plc
+RTEN||RTEN_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RTEN||TEST_STAT||X|Test status|Checked
 RTEN||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 RTEN||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-RTEN||RTEN_DEV||X|Deviation  from  the  specified procedure|
+RTEN||RTEN_DEV||X|Deviation from the specified procedure|
 RUCS|*|LOCA_ID||ID|Location identifier|327-16A
 RUCS|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 RUCS|*|SAMP_REF||X|Sample reference|24
@@ -2451,12 +2451,12 @@ RUCS||RUCS_ETYP||PA|Method of determination of Young's modulus|SECANT
 RUCS||RUCS_MACH||X|Type of testing machine|Denison 7225
 RUCS||RUCS_REM||X|Remarks|Specimen tested outside required 2.5-3.0 diameter to length ratio
 RUCS||RUCS_METH||X|Test method|ISRM: Suggested method for determination of Uniaxial Compressive Strength
-RUCS||RUCS_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-RUCS||RUCS_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RUCS||RUCS_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+RUCS||RUCS_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RUCS||TEST_STAT||X|Test status|Checked
 RUCS||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 RUCS||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-RUCS||RUCS_DEV||X|Deviation  from  the  specified procedure|
+RUCS||RUCS_DEV||X|Deviation from the specified procedure|
 RUCS||RUCS_ESEC|GPa|3SF|Young's modulus, secant|221
 RUCS||RUCS_ETAN|GPa|3SF|Young's modulus, tangent|213
 RUCS||RUCS_EAVG|GPa|3SF|Young's modulus, average (mean)|196
@@ -2479,12 +2479,12 @@ RWCO||RWCO_MC|%|X|Water content|2.2
 RWCO||RWCO_TEMP|DegC|0DP|Temperature sample dried at|60
 RWCO||RWCO_REM||X|Remarks|
 RWCO||RWCO_METH||X|Test method|ISRM: Suggested method for determining water content
-RWCO||RWCO_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-RWCO||RWCO_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+RWCO||RWCO_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+RWCO||RWCO_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 RWCO||TEST_STAT||X|Test status|Checked
 RWCO||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS10
 RWCO||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-RWCO||RWCO_DEV||X|Deviation  from  the  specified procedure|
+RWCO||RWCO_DEV||X|Deviation from the specified procedure|
 SAMP|*|LOCA_ID||ID|Location identifier|327-16A
 SAMP|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 SAMP|*|SAMP_REF||X|Sample reference|24
@@ -2506,7 +2506,7 @@ SAMP||SAMP_WHY||X|Reason for sampling|Routine monitoring sample
 SAMP||SAMP_REM||X|Sample remarks|
 SAMP||SAMP_DESC||X|Sample/specimen description|Grey silty CLAY
 SAMP||SAMP_DESD|yyyy-mmdd|DT|Date sample described|39755
-SAMP||SAMP_LOG||X|Person  responsible  for sample/specimen description|AN Other
+SAMP||SAMP_LOG||X|Person responsible for sample/specimen description|AN Other
 SAMP||SAMP_COND||X|Condition and representativeness of sample|Sample softened, or fractured by drilling
 SAMP||SAMP_CLSS||X|Sample classification as required by EN ISO 14688-1|5
 SAMP||SAMP_BAR|bar|1DP|Barometric pressure at time of sampling|99.1
@@ -2529,11 +2529,11 @@ SCDG||SCDG_DDIS|%|0DP|Degree of dissipation for analysis|50
 SCDG||SCDG_T|s|1DP|Time to achieve degree of dissipation stated in SCDG_DDIS|258.5
 SCDG||SCDG_CV|m2/yr|2SCI|Coefficient of consolidation (vertical)|13.3
 SCDG||SCDG_CVMT||X|Method(s) used to determine vertical coefficient of consolidation|C_h x 5
-SCDG||SCDG_CH|m2/yr|2SCI|Coefficient  of  consolidation (horizontal)|0.00000864
-SCDG||SCDG_CHMT||X|Method(s)  used  to  determine horizontal coefficient of consolidation|Houlsby and Teh
+SCDG||SCDG_CH|m2/yr|2SCI|Coefficient of consolidation (horizontal)|0.00000864
+SCDG||SCDG_CHMT||X|Method(s) used to determine horizontal coefficient of consolidation|Houlsby and Teh
 SCDG||SCDG_REM||X|Remarks|
 SCDG||TEST_STAT||X|Test status|Checked
-SCDG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS19
+SCDG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS19
 SCDT|*|LOCA_ID||ID|Location identifier|327-16A
 SCDT|*|SCPG_TESN||X|Test reference or push number|3
 SCDT|*|SCDG_DPTH|m|2DP|Depth of dissipation test|5.205
@@ -2558,7 +2558,7 @@ SCPG||SCPG_REM||X|Comments on testing and basis of any interpreted parameters in
 SCPG||SCPG_ENV||X|Details of weather and environmental conditions during test|Sunny
 SCPG||SCPG_CONT||X|Subcontractors name|An Contractor Ltd
 SCPG||SCPG_METH||X|Standard followed for testing|NEN 5140
-SCPG||SCPG_CRED||X|Accrediting  body  and  reference number (when appropriate)|
+SCPG||SCPG_CRED||X|Accrediting body and reference number (when appropriate)|
 SCPG||SCPG_CAR||3DP|Cone area ratio used to calculate qt|0.81
 SCPG||SCPG_SLAR||3DP|Sleeve area ratio used to calculate ft|1.001
 SCPG||FILE_FSET||X|Associated file reference (e.g. cone calibration records)|FS18
@@ -2596,15 +2596,15 @@ SCPT||SCPT_SMP|%|4DP|Soil moisture|
 SCPT||SCPT_NGAM|counts/s|4DP|Natural gamma radiation|
 SCPT||SCPT_REM||X|Remarks|
 SCPT||SCPT_FRR|%|2DP|Friction ratio (Rf)|0.54
-SCPT||SCPT_QT|MPa|4DP|Corrected  cone  resistance piezocone only (qt)|18.0668
+SCPT||SCPT_QT|MPa|4DP|Corrected cone resistance piezocone only (qt)|18.0668
 SCPT||SCPT_FT|MPa|4DP|Corrected sleeve resistance piezocone only (ft)|0.1235
-SCPT||SCPT_QE|MPa|4DP|Effective  cone  resistance piezocone only (qe)|18.0532
+SCPT||SCPT_QE|MPa|4DP|Effective cone resistance piezocone only (qe)|18.0532
 SCPT||SCPT_BDEN|Mg/m3|2DP|Bulk density of material (measured or assumed)|2.21
 SCPT||SCPT_CPO|kPa|2DP|Total vertical stress (based on SCPT_BDEN)|210.46
 SCPT||SCPT_CPOD|kPa|2DP|Effective vertical stress (calculated from SCPT_CPO and SCPT_ISPP or SCPG_WAT)|107.56
 SCPT||SCPT_QNET|MPa|4DP|Net cone resistance (qn)|17.8563
 SCPT||SCPT_FRRC|%|2DP|Corrected friction ratio (Rf') piezocone only|2.76
-SCPT||SCPT_EXPP|MPa|4DP|Excess  pore  pressure  (u-uo) piezocone only|-0.0911
+SCPT||SCPT_EXPP|MPa|4DP|Excess pore pressure (u-uo) piezocone only|-0.0911
 SCPT||SCPT_BQ||4DP|Pore pressure ratio (Bq) piezocone only|-0.0051
 SCPT||SCPT_ISPP|MPa|4DP|In situ pore pressure (uo) (measured or assumed where not simple hydrostatic based on SCPG_WAT)|0.2
 SCPT||SCPT_NQT||4DP|Normalised cone resistance (Qt)|166.0125
@@ -2626,15 +2626,15 @@ SHBG||SHBG_PCOH|kPa|2SF|Peak cohesion intercept|5.1
 SHBG||SHBG_PHI|deg|1DP|Peak angle of friction|26.5
 SHBG||SHBG_RCOH|kPa|2SF|Residual cohesion intercept|1.3
 SHBG||SHBG_RPHI|deg|1DP|Residual angle of friction|13
-SHBG||SHBG_ENCA||X|Method  of  encapsulation  of specimens tested|Resin
+SHBG||SHBG_ENCA||X|Method of encapsulation of specimens tested|Resin
 SHBG||SHBG_REM||X|Remarks including commentary on effect of specimen disturbance on test result|c' and phi' derived by linear regression, c' assumed zero etc
 SHBG||SHBG_METH||X|Test method|BS1377 Part 7
-SHBG||SHBG_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-SHBG||SHBG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+SHBG||SHBG_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+SHBG||SHBG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 SHBG||TEST_STAT||X|Test status|Checked
-SHBG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS18
+SHBG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS18
 SHBG||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-SHBG||SHBG_DEV||X|Deviation  from  the  specified procedure|
+SHBG||SHBG_DEV||X|Deviation from the specified procedure|
 SHBT|*|LOCA_ID||ID|Location identifier|327-16A
 SHBT|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 SHBT|*|SAMP_REF||X|Sample reference|24
@@ -2662,7 +2662,7 @@ SHBT||SHBT_MCF|%|X|Final water/moisture content|18
 SHBT||SHBT_DIA1|mm|2DP|Specimen diameter in direction of shear (rock joints)|85.21
 SHBT||SHBT_DIA2|mm|2DP|Specimen diameter perpendicular to shear (rock joints)|89.34
 SHBT||SHBT_HGT|mm|2DP|Specimen height|80.02
-SHBT||SHBT_CRIT||X|Failure/residual  strength  criterion used|Stress ratio
+SHBT||SHBT_CRIT||X|Failure/residual strength criterion used|Stress ratio
 SHBT||SHBT_REM||X|Remarks|Reached end of travel
 SHBT||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS18
 SHBT||SHBT_PVST|kPa|0DP|Normal (vertical) stress at peak shear stress|100
@@ -2671,7 +2671,7 @@ STND|*|STND_REF||X|Reference of standard|BS EN ISO 14688-1:2018
 STND||STND_TTLE||X|Document Title|Geotechnical investigation and testing - Identification and classification of soil - Part 1: Identification and description
 STND||STND_SCPE||X|Scope of data collected to this standard|Soil descriptions; field logging and laboratory test specimens
 STND||STND_REM||X|Comments|
-STND||FILE_FSET||X|Associated  file  reference  (e.g. contract specific specifications)|FS1
+STND||FILE_FSET||X|Associated file reference (e.g. contract specific specifications)|FS1
 SUCT|*|LOCA_ID||ID|Location identifier|327-16A
 SUCT|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 SUCT|*|SAMP_REF||X|Sample reference|24
@@ -2690,8 +2690,8 @@ SUCT||SUCT_MC|%|2SF|Initial water/moisture content|20
 SUCT||SUCT_VAL|kPa|0DP|Suction value|50
 SUCT||SUCT_REM||X|Remarks|
 SUCT||SUCT_METH||X|Test method|BRE IP4/93, suction probe in triaxial
-SUCT||SUCT_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-SUCT||SUCT_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+SUCT||SUCT_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+SUCT||SUCT_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 SUCT||TEST_STAT||X|Test status|Checked
 SUCT||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS98
 SUCT||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
@@ -2710,12 +2710,12 @@ TNPC||TNPC_DRY||X|10% fines values on dry aggregate|75
 TNPC||TNPC_WET||X|10% fines values on wet aggregate|60
 TNPC||TNPC_REM||X|Remarks|
 TNPC||TNPC_METH||X|Test method|
-TNPC||TNPC_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-TNPC||TNPC_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+TNPC||TNPC_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+TNPC||TNPC_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 TNPC||TEST_STAT||X|Test status|Checked
 TNPC||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS19
 TNPC||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-TNPC||TNPC_DEV||X|Deviation  from  the  specified procedure|
+TNPC||TNPC_DEV||X|Deviation from the specified procedure|
 TREG|*|LOCA_ID||ID|Location identifier|327-16A
 TREG|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 TREG|*|SAMP_REF||X|Sample reference|24
@@ -2732,10 +2732,10 @@ TREG||TREG_PHI|deg|1DP|Angle of friction for effective shear strength triaxial t
 TREG||TREG_FCR||X|Failure criterion|Maximum deviator stress
 TREG||TREG_REM||X|Remarks including commentary on effect of specimen disturbance on test result|Peak stress ratio, side drains fitted
 TREG||TREG_METH||X|Test method|BS1377 pt 8
-TREG||TREG_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-TREG||TREG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+TREG||TREG_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+TREG||TREG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 TREG||TEST_STAT||X|Test status|Checked
-TREG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS7
+TREG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS7
 TREG||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
 TREG||TREG_DEV||X|Any deviation from the procedure or specified test conditions|
 TRET|*|LOCA_ID||ID|Location identifier|327-16A
@@ -2748,13 +2748,13 @@ TRET|*|SPEC_DPTH|m|2DP|Depth to top of test specimen|24.55
 TRET|*|TRET_TESN||X|Triaxial test/stage number|1
 TRET||TRET_SDIA|mm|2DP|Specimen diameter|38.25
 TRET||TRET_LEN|mm|2DP|Specimen length|76.5
-TRET||TRET_IMC|%|X|Specimen  initial  water/moisture content|15.5
-TRET||TRET_FMC|%|X|Specimen  final  water/moisture content|14.9
+TRET||TRET_IMC|%|X|Specimen initial water/moisture content|15.5
+TRET||TRET_FMC|%|X|Specimen final water/moisture content|14.9
 TRET||TRET_BDEN|Mg/m3|2DP|Initial bulk density|2.12
 TRET||TRET_DDEN|Mg/m3|2DP|Initial dry density|1.84
 TRET||TRET_SAT||X|Method of saturation|Back pressure, cell pressure, none
 TRET||TRET_CONS||X|Details of consolidation stage|Drainage to both ends with radial boundary
-TRET||TRET_CONP|kPa|0DP|Effective  stress  at  end  of consolidation/ start of shear stage|100
+TRET||TRET_CONP|kPa|0DP|Effective stress at end of consolidation/ start of shear stage|100
 TRET||TRET_CELL|kPa|0DP|Total cell pressure during shearing stage|400
 TRET||TRET_PWPI|kPa|0DP|Porewater pressure at start of shear stage|50
 TRET||TRET_STRR|%/hr|1DP|Rate of axial strain during shear|1.5
@@ -2767,7 +2767,7 @@ TRET||TRET_REM||X|Comments|
 TRET||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS7
 TRET||TRET_BACK|kPa|0DP|Final back pressure applied prior to shearing|300
 TRET||TRET_VERT|%|1DP|Vertical strain at end of consolidation|1.3
-TRET||TRET_VOLM|%|1DP|Volumetric  strain  at  end  of consolidation|1.2
+TRET||TRET_VOLM|%|1DP|Volumetric strain at end of consolidation|1.2
 TRET||TRET_RATE|%/hr|1DP|Rate of volumetric strain immediately prior to shearing|0.3
 TRET||TRET_BVAL||2DP|Final B-value prior to shearing|0.95
 TRET||TRET_DRN||X|Type of drainage conditions during shear|Radial
@@ -2801,12 +2801,12 @@ TRIG||TRIG_TYPE||PA|Test type|UU
 TRIG||TRIG_COND||PA|Sample condition|UNDISTURBED
 TRIG||TRIG_REM||X|Remarks including commentary on effect of specimen disturbance on test result|
 TRIG||TRIG_METH||X|Test method|BS EN ISO 17892-8
-TRIG||TRIG_LAB||X|Name  of  testing laboratory/organization|ACME Laboratories plc
-TRIG||TRIG_CRED||X|Accrediting  body  and  reference number (when appropriate)|UKAS 0000
+TRIG||TRIG_LAB||X|Name of testing laboratory/organization|ACME Laboratories plc
+TRIG||TRIG_CRED||X|Accrediting body and reference number (when appropriate)|UKAS 0000
 TRIG||TEST_STAT||X|Test status|Checked
-TRIG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS7
+TRIG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS7
 TRIG||SPEC_BASE|m|2DP|Depth to base of specimen|24.65
-TRIG||TRIG_DEV||X|Deviation  from  the  specified procedure|
+TRIG||TRIG_DEV||X|Deviation from the specified procedure|
 TRIT|*|LOCA_ID||ID|Location identifier|327-16A
 TRIT|*|SAMP_TOP|m|2DP|Depth to top of sample|24.55
 TRIT|*|SAMP_REF||X|Sample reference|24
@@ -2817,8 +2817,8 @@ TRIT|*|SPEC_DPTH|m|2DP|Depth to top of test specimen|24.55
 TRIT|*|TRIT_TESN||X|Triaxial test/stage reference|1
 TRIT||TRIT_SDIA|mm|2DP|Specimen diameter|38.25
 TRIT||TRIT_SLEN|mm|2DP|Specimen length|76.45
-TRIT||TRIT_IMC|%|X|Specimen  initial  water/moisture content|15.7
-TRIT||TRIT_FMC|%|X|Specimen  final  water/moisture content|14.9
+TRIT||TRIT_IMC|%|X|Specimen initial water/moisture content|15.7
+TRIT||TRIT_FMC|%|X|Specimen final water/moisture content|14.9
 TRIT||TRIT_CELL|kPa|0DP|Total cell pressure|100
 TRIT||TRIT_DEVF|kPa|0DP|Corrected deviator stress at failure|360
 TRIT||TRIT_BDEN|Mg/m3|2DP|Initial bulk density|2.12
@@ -2828,7 +2828,7 @@ TRIT||TRIT_CU|kPa|0DP|Undrained Shear Strength at failure|180
 TRIT||TRIT_MODE||PA|Mode of failure|Brittle
 TRIT||TRIT_REM||X|Comments|
 TRIT||FILE_FSET||X|Associated file reference (e.g. test result sheets)|FS7
-TRIT||TRIT_FZWC|%|X|Failure  zone  water content,  if measured|14.7
+TRIT||TRIT_FZWC|%|X|Failure zone water content, if measured|14.7
 TRIT||TRIT_RATE|%/min|2SF|Mean rate of shear|1.5
 WADD|*|LOCA_ID||ID|Location identifier|327-16A
 WADD|*|WADD_TOP|m|2DP|Depth to top of reported section|10.5
@@ -2838,8 +2838,8 @@ WADD||WADD_METH||X|Boring/drilling method associated with addition of water (HDP
 WADD||WADD_REM||X|Remarks related to addition of water requirements, method|
 WADD||FILE_FSET||X|Associated file reference (e.g. drilling journal)|FS20
 WETH|*|LOCA_ID||ID|Location identifier|327-16A
-WETH|*|WETH_TOP|m|2DP|Depth  to  top  of  weathering subdivision|3.5
-WETH|*|WETH_BASE|m|2DP|Depth  to  base  of  weathering subdivision|3.95
+WETH|*|WETH_TOP|m|2DP|Depth to top of weathering subdivision|3.5
+WETH|*|WETH_BASE|m|2DP|Depth to base of weathering subdivision|3.95
 WETH||WETH_SCH||PA|Weathering scheme|BS 5930
 WETH||WETH_SYS||PA|Material or mass weathering system|MASS CLASS
 WETH||WETH_WETH||X|Weathering classifier for WETH_SCH and WETH_SYS|B
@@ -2855,19 +2855,19 @@ WGPG||WGPG_BHD|m|2DP|Depth of borehole|25.85
 WGPG||WGPG_WAT|m|XN|Depth of water in borehole|4.36
 WGPG||WGPG_DETL||X|Details of instrument|
 WGPG||WGPG_LIM||U|Instrument/method reading/detection limit|
-WGPG||WGPG_ULIM||U|Instrument/method  upper  reading detection (when appropriate)|
+WGPG||WGPG_ULIM||U|Instrument/method upper reading detection (when appropriate)|
 WGPG||WGPG_CDIA||X|Casing internal diameter as reported by drillers|From 0 to 10m : 200mm - From 0 to 30m: 90mm
 WGPG||WGPG_REM||X|Remarks|
 WGPG||WGPG_ENV||X|Details of weather and environmental conditions during test|
 WGPG||WGPG_METH||X|Measurement method|
 WGPG||WGPG_CONT||X|Contractor who undertook testing|ACME Instruments Ltd
-WGPG||WGPG_CRED||X|Accrediting  body  and  reference number (Where appropriate)|
+WGPG||WGPG_CRED||X|Accrediting body and reference number (Where appropriate)|
 WGPG||WGPG_STAT||X|Test status|Checked
-WGPG||FILE_FSET||X|Associated  file  reference  (e.g. equipment calibrations)|FS01
+WGPG||FILE_FSET||X|Associated file reference (e.g. equipment calibrations)|FS01
 WGPT|*|LOCA_ID||ID|Location identifier|327-16A
 WGPT|*|WGPG_ID||X|Test reference|327-16A -Pass01
 WGPT|*|WGPG_TOOL||PA|Tool used|OBI
-WGPT|*|WGPT_PARA||PA|Parameter  recorded by toolWGPG_TOOL|OBI_EAST
+WGPT|*|WGPT_PARA||PA|Parameter recorded by toolWGPG_TOOL|OBI_EAST
 WGPT|*R|WGPT_UNIT||PU|Test result units|m
 WGPT|*|WGPT_DPTH||2DP|Depth of reading|10.45
 WGPT||WGPT_RDNG||U|Reading|123.321, 2000 or 0.0023
